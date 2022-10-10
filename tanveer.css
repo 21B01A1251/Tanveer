@@ -1,0 +1,38 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: darkblue;
+}
+.first{
+    color:blue;
+    
+}
+.second{
+    color:darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.third{
+    color:blue;
+}
+u{
+    color:orange;
+}
+input{
+    padding:6px 10px 6px 10px;
+    border-radius: 20px;
+    margin:1px;
+}
+b{
+    color:blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
